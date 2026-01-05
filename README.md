@@ -116,3 +116,9 @@ See 'git help git' for an overview of the system.
 
 `git credential reject`
 
+`git fetch`
+
+`git merge origin/main`
+
+`git pull`
+
